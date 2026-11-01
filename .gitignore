@@ -6,6 +6,16 @@ temp/
 auth/
 sessions/
 data/confess_sessions.json
-docs
+data/subscribers.json
+data/users.json
+logs/
+*.log
+.DS_Store
+Thumbs.db
 .env
+.env.local
+.env.*.local
+*.pem
+*.key
+cert/
 
